@@ -1,0 +1,14 @@
+{
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "./attachments",
+  "newFileLocation": "current",
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative"
+}
