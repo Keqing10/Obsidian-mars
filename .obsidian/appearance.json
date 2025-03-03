@@ -1,7 +1,8 @@
 {
-  "cssTheme": "GitHub Theme",
+  "cssTheme": "Border",
   "textFontFamily": "Times New Roman,思源宋体",
   "monospaceFontFamily": "Ubuntu Mono,Consolas",
   "theme": "moonstone",
-  "interfaceFontFamily": "思源黑体"
+  "interfaceFontFamily": "思源黑体",
+  "nativeMenus": true
 }

@@ -11,5 +11,7 @@
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "tabSize": 4,
+  "useTab": false
 }
